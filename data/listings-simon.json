@@ -1,8 +1,20 @@
 {
   "courtier": "Simon Couillard",
   "source": "https://propriodirect.com/simon-couillard/",
-  "miseAJour": "2026-11-08 11:40",
+  "miseAJour": "2026-11-13 12:42",
   "inscriptions": [
+    {
+      "mls": "21517457",
+      "prix": 164900,
+      "adresse": "4, Rue St-Charles",
+      "ville": "Sainte-Brigitte-de-Laval",
+      "type": "Maison à un étage et demi",
+      "chambres": 2,
+      "sallesDeBain": 1,
+      "statut": "nouveau",
+      "photo": "https://cdn.propriodirect.com/pd/listings/21517457/medium/Property_21517457_Photo_110965701_20261113150012000.jpg",
+      "url": "https://propriodirect.com/capitale-nationale/sainte-brigitte-de-laval/maison-a-un-etage-et-demi-a-vendre/4-rue-st-charles-21517457"
+    },
     {
       "mls": "24971501",
       "prix": 239000,
@@ -26,18 +38,6 @@
       "statut": "",
       "photo": "https://cdn.propriodirect.com/pd/listings/24060099/medium/Property_24060099_Photo_110443170_20261021165159000.jpg",
       "url": "https://propriodirect.com/chaudiere-appalaches/saint-georges/maison-de-plain-pied-a-vendre/520-143e-rue-24060099"
-    },
-    {
-      "mls": "15138535",
-      "prix": 189000,
-      "adresse": "4, Rue St-Charles",
-      "ville": "Sainte-Brigitte-de-Laval",
-      "type": "Maison à un étage et demi",
-      "chambres": 2,
-      "sallesDeBain": 1,
-      "statut": "",
-      "photo": "https://cdn.propriodirect.com/pd/listings/15138535/medium/Property_15138535_Photo_108724708_20260814185942000.jpg",
-      "url": "https://propriodirect.com/capitale-nationale/sainte-brigitte-de-laval/maison-a-un-etage-et-demi-a-vendre/4-rue-st-charles-15138535"
     },
     {
       "mls": "12236746",
