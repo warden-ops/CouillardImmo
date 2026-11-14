@@ -1,8 +1,20 @@
 {
   "courtier": "Layna Couillard",
   "source": "https://propriodirect.com/layna-couillard/",
-  "miseAJour": "2026-11-08 11:40",
+  "miseAJour": "2026-11-14 11:36",
   "inscriptions": [
+    {
+      "mls": "9005592",
+      "prix": 139900,
+      "adresse": "819, 15e Rue",
+      "ville": "Saint-Zacharie",
+      "type": "Maison à étages",
+      "chambres": 3,
+      "sallesDeBain": 1,
+      "statut": "nouveau",
+      "photo": "https://cdn.propriodirect.com/pd/listings/9005592/medium/Property_9005592_Photo_110984344_20261114135815000.jpg",
+      "url": "https://propriodirect.com/chaudiere-appalaches/saint-zacharie/maison-a-etages-a-vendre/819-15e-rue-9005592"
+    },
     {
       "mls": "24971501",
       "prix": 239000,
