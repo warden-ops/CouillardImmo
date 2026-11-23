@@ -1,7 +1,7 @@
 {
   "courtier": "Layna Couillard",
   "source": "https://propriodirect.com/layna-couillard/",
-  "miseAJour": "2026-11-21 12:29",
+  "miseAJour": "2026-11-23 17:02",
   "inscriptions": [
     {
       "mls": "9005592",
@@ -28,18 +28,6 @@
       "url": "https://propriodirect.com/chaudiere-appalaches/saint-georges/maison-de-plain-pied-a-vendre/11320-3e-avenue-24971501"
     },
     {
-      "mls": "24060099",
-      "prix": 239000,
-      "adresse": "520, 143e Rue",
-      "ville": "Saint-Georges",
-      "type": "Maison de plain-pied",
-      "chambres": 3,
-      "sallesDeBain": 2,
-      "statut": "",
-      "photo": "https://cdn.propriodirect.com/pd/listings/24060099/medium/Property_24060099_Photo_110443170_20261021165159000.jpg",
-      "url": "https://propriodirect.com/chaudiere-appalaches/saint-georges/maison-de-plain-pied-a-vendre/520-143e-rue-24060099"
-    },
-    {
       "mls": "12236746",
       "prix": 319000,
       "adresse": "8, Ch. des Lys",
@@ -50,6 +38,18 @@
       "statut": "",
       "photo": "https://cdn.propriodirect.com/pd/listings/12236746/medium/Property_12236746_Photo_107074889_20260602195757000.jpg",
       "url": "https://propriodirect.com/chaudiere-appalaches/lac-etchemin/maison-de-plain-pied-a-vendre/8-ch-des-lys-12236746"
+    },
+    {
+      "mls": "24060099",
+      "prix": null,
+      "adresse": "520, 143e Rue",
+      "ville": "Saint-Georges",
+      "type": "Maison de plain-pied",
+      "chambres": 3,
+      "sallesDeBain": 2,
+      "statut": "vendu",
+      "photo": "https://cdn.propriodirect.com/pd/listings/24060099/medium/Property_24060099_Photo_110443170_20261021165159000.jpg",
+      "url": "https://propriodirect.com/chaudiere-appalaches/saint-georges/maison-de-plain-pied-a-vendre/520-143e-rue-24060099"
     },
     {
       "mls": "12366234",
